@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cinco33
 - 👀 I’m interested in ... Data Science
 - 🌱 I’m currently learning ...Python and SQL
-- 🦾I’m looking to collaborate on ... Anything! Eager to gain more knowledge and understanding
+- 🤝I’m looking to collaborate on ... Anything! Eager to gain more knowledge and understanding
 - 📫 How to reach me ...linkedin.com/dariusnobles
 - 🙍‍♂️ Pronouns: ...He/Him
 - ⚡ Fun fact: ... 🎣🦆🎮
